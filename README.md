@@ -109,7 +109,6 @@ revenue-loss-and-cancellation-analysis/
 ## Author
 
 **Samresh Mandal** — Data Analyst | MBA (Finanace) |
+LinkedIn : [https://www.linkedin.com/in/samresh-mandal/](#) 
 
-LinkedIn : [https://www.linkedin.com/in/samresh-mandal/](#) |
-GitHub : [https://github.com/analyst-samresh?tab=repositories](#)  
 *Analysis completed: March 2026*
